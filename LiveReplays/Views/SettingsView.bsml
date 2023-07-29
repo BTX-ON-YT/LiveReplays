@@ -1,0 +1,3 @@
+<settings-container>
+	<bool-setting text="Enable Live Replays" value="#use" apply-on-change="true"></bool-setting>
+</settings-container>

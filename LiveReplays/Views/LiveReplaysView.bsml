@@ -1,0 +1,7 @@
+﻿<bg>
+	<horizontal>
+		<vertical>
+			<button text="Test" font-size="9" pad-top="5" pad-bottom="5"></button>
+		</vertical>
+	</horizontal>
+</bg>
